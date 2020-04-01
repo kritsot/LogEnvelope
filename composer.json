@@ -4,7 +4,7 @@
     "keywords": ["laravel", "log", "error", "mail on error"],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "5.*|^6.0"
+        "illuminate/support": "^7.0"
     },
     "autoload": {
         "psr-4": {
@@ -12,13 +12,11 @@
         }
     },
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Yaro",
-            "email": "12fcv4@gmail.com",
-            "homepage": "http://cherry-pie.co",
-            "role": "Owner"
-        }
-    ],
+    "authors": [{
+        "name": "Yaro",
+        "email": "12fcv4@gmail.com",
+        "homepage": "http://cherry-pie.co",
+        "role": "Owner"
+    }],
     "minimum-stability": "stable"
 }
